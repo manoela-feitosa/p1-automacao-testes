@@ -1,15 +1,16 @@
 # AP1 - Automação de Testes
 
-Atividade AP1 de Automação de Testes utilizando Python e Pytest.
+**Aluna:** Manoela Soares Feitosa  
+**Turma:** SI 3
 
-Foram realizados testes com diferentes cenários, valores de fronteira e tratamento de erros.
+Atividade AP1 de Automação de Testes utilizando Python e Pytest.
 
 ## Arquivos
 
 - `questao_ap1.py` - funções utilizadas na atividade
 - `test_ap1.py` - testes realizados
 
-## Para executar
+## Execução
 
 ```bash
 python -m pytest -v
